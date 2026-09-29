@@ -39,9 +39,6 @@ Audience: ${audience}
 Additional Instructions:
 ${customMessage?.trim() || "None"}
 
-Previous Messages:
-${previousMessages?.trim() || "None"}
-
 ---
 
 ## CORE REQUIREMENT: VARIETY
