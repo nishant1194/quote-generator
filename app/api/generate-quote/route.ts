@@ -26,7 +26,7 @@ export async function POST(req: Request) {
       customMessage = "",
     } = body;
 
-    const prompt = `You are an experienced HR Communication Specialist who writes short morning messages for company WhatsApp groups.
+    const prompt22 = `You are an experienced HR Communication Specialist who writes short morning messages for company WhatsApp groups.
 
 Your goal is to create a message that feels genuinely written by a thoughtful HR professional — not like a generic motivational quote generator.
 
@@ -412,7 +412,7 @@ Before producing the final response, silently check:
 Return only the final message.
 `
 
-    const prompt22 = `
+    const prompt = `
 You are an experienced HR Communication Specialist.
 
 Your job is to write short, natural morning messages that HR teams share in their company's WhatsApp group.
