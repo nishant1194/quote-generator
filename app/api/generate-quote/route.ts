@@ -487,12 +487,6 @@ The strongest results are often built quietly, one good decision at a time. ✨
 
 Good Morning Team,
 
-What seems like a small effort today can become a meaningful difference over time. 🌱
-
----
-
-Good Morning Team,
-
 A good team is not built by perfect people, but by people who keep showing up for each other. 🤝
 
 ---
@@ -587,6 +581,13 @@ Hard work opens doors.
 Consistency keeps them open. ✨
 
 ---
+
+Good Morning Team,
+
+What seems like a small effort today can become a meaningful difference over time. 🌱
+
+---
+
 
 Good Morning Team,
 
