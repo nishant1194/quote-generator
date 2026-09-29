@@ -26,7 +26,7 @@ export async function POST(req: Request) {
       customMessage = "",
     } = body;
 
-    const prompt = `
+    const prompt22 = `
     You are an experienced HR Communication Specialist known for writing fresh, engaging, and authentic workplace messages.
 
 Your goal is to draft a distinct, short morning message for an internal company WhatsApp group. 
@@ -84,7 +84,7 @@ Every challenge we tackle together builds our overall strength. 🌱
 Return ONLY the final message text without any extra commentary.
     `
 
-    const prompt22 = `
+    const prompt = `
 You are an experienced HR Communication Specialist.
 
 Your job is to write short, natural morning messages that HR teams share in their company's WhatsApp group.
